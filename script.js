@@ -65,124 +65,124 @@ const questions = [
     correct: "a"
   },
   {
-    question: "Câu 14: Vùng U-ran của Liên bang Nga thuận lợi để phát triển những ngành chủ yếu nào sau đây?",
-    options: ["a) Khai thác khoáng sản.", "b) Chế biến thực phẩm.", "c) Đóng tàu.", "d) Chế tạo máy."],
-    correct: "d"
+    question: "Câu 14: Đặc điểm nào sau đây không thể hiện rõ Liên bang Nga là một đất nước rộng lớn?",
+    options: ["A. Diện tích lớn nhất thế giới, nằm trên hai châu lục.", "B. Đất nước trải dài từ đông sang tây, trên 11 múi giờ.", "C. Đường bờ biển dài, giáp nhiều đại dương và biển.", "D. Có các đới khí hậu, nhiều kiểu khí hậu khác nhau."],
+    correct: "D"
   },
   {
-    question: "Câu 15: Đặc điểm tự nhiên phần phía Tây của Liên bang Nga là?",
-    options: ["a) Đại bộ phận là đồng bằng và vùng trũng.", "b) Phần lớn là vùng núi và các cao nguyên.", "c) Có nguồn khoáng sản và lâm sản khá lớn.", "d) Có nguồn trữ năng thủy điện lớn ở sông."],
-    correct: "a"
+    question: "Câu 15: Đặc điểm tự nhiên của phần phía Đông Liên bang Nga là",
+    options: ["A. phần lớn núi và cao nguyên.", "B. nhiều đồng bằng và vùng trũng.", "C. có dãy U-ran giàu khoáng sản.", "D. có nhiều đồi thấp và đầm lầy."],
+    correct: "A"
   },
   {
-    question: "Câu 16: Dãy U-ran được xem là ranh giới tự nhiên của?",
-    options: ["a) Đồng bằng Đông Âu và cao nguyên Trung Xi-bia.", "b) Phần lãnh thổ phía Đông và phần lãnh thổ phía Tây.", "c) Hai châu lục Á-Âu trên lãnh thổ Liên bang Nga.", "d) Đồng bằng Tây Xi-bia và cao nguyên Trung Xi-bia."],
-    correct: "c"
+    question: "Câu 16: Biển Ban-tích, Biển Đen và biển Ca-xpi tiếp giáp với phía nào của Liên Bang Nga?",
+    options: ["A. Đông và đông nam.", "B. Bắc và đông bắc.", "C. Tây và tây nam.", "D. Nam và đông nam."],
+    correct: "C"
   },
   {
-    question: "Câu 17: Phát biểu nào sau đây không đúng với kinh tế của Liên bang Nga?",
-    options: ["a) Công nghiệp là ngành quan trọng trong nền kinh tế.", "b) Khai thác dầu khí là ngành mũi nhọn của nền kinh tế.", "c) Các ngành dịch vụ của đất nước đang phát triển mạnh.", "d) Quỹ đất nông nghiệp lớn và chỉ phát triển trồng trọt."],
-    correct: "a"
+    question: "Câu 17: Tài nguyên khoáng sản của Liên bang Nga thuận lợi để phát triển những ngành công nghiệp nào sau đây?",
+    options: ["A. Năng lượng, luyện kim, hóa chất.", "B. Năng lượng, luyện kim, cơ khí.", "C. Năng lượng, luyện kim, xây dựng.", "D. Năng lượng, luyện kim, dệt may."],
+    correct: "A"
   },
   {
-    question: "Câu 18: Phát biểu nào sau đây không đúng với công nghiệp Liên bang Nga hiện nay?",
-    options: ["a) Là một ngành xương sống của cả nền kinh tế.", "b) Cơ cấu đa dạng, có cả truyền thống và hiện đại.", "c) Tập trung ưu tiên phát triển ngành truyền thống.", "d) Công nghiệp khai thác dầu khí là ngành mũi nhọn."],
-    correct: "a"
+    question: "Câu 18: Nơi có nhiều thuận lợi cho trồng cây lương thực ở Liên bang Nga là",
+    options: ["A. đồng bằng Đông Âu.", "B. dãy U-ran.", "C. đông Xi-bia.", "D. trung Xi-bia."],
+    correct: "A"
   },
   {
-    question: "Câu 19: Công nghiệp của Liên bang Nga tập trung nhiều nhất ở vùng nào sau đây?",
-    options: ["a) Đồng bằng Đông Âu.", "b) Đồng bằng Tây Xi-bia.", "c) Khu vực dãy U-ran.", "d) Khu vực Viễn Đông."],
-    correct: "b"
+    question: "Câu 19: Dầu mỏ của Liên bang Nga tập trung nhiều nhất ở",
+    options: ["A. đồng bằng Đông Âu.", "B. đồng bằng Tây Xi-bia.", "C. cao nguyên Trung Xi-bia.", "D. ven Bắc Băng Dương."],
+    correct: "B"
   },
   {
-    question: "Câu 20: Nông nghiệp Liên bang Nga phát triển mạnh từ năm 2000 đến nay không phải là do?",
-    options: ["a) Đầu tư nhiều vào khoa học kĩ thuật.", "b) Sử dụng rộng rãi máy móc hiện đại.", "c) Tăng cường hội nhập kinh tế quốc tế.", "d) Tích cực mở rộng diện tích trồng trọt."],
-    correct: "c"
+    question: "Câu 20: Dãy núi U-ran là nơi tập trung nhiều những loại khoáng sản nào sau đây?",
+    options: ["A. Dầu mỏ, Man-gan.", "B. Khí tự nhiên, đồng.", "C. Than đá, quặng sắt.", "D. Kim cương, thiếc."],
+    correct: "C"
   },
   {
-    question: "Câu 21: Lúa mì được trồng nhiều ở những vùng nào sau đây của Liên bang Nga?",
-    options: ["a) Đồng bằng Đông Âu, đồng bằng Tây Xi-bia.", "b) Đồng bằng Tây Xi-bia, cao nguyên Trung Xi-bia.", "c) Cao nguyên Trung Xi-bia, đồng bằng Đông Âu.", "d) Vùng giáp với biển Ca-xpi, đồng bằng Đông Âu."],
-    correct: "a"
+    question: "Câu 21: Vùng nào sau đây có mật độ dân số cao nhất ở Liên bang Nga?",
+    options: ["A. Đồng bằng Đông Âu.", "B. Đồng bằng Tây Xi-bia.", "C. Cao nguyên Trung Xi-bia.", "D. Đông Xi-bia."],
+    correct: "A"
   },
   {
-    question: "Câu 22: Lợn được nuôi nhiều nhất ở nơi nào sau đây của Liên bang Nga?",
-    options: ["a) Đồng bằng Đông Âu.", "b) Đồng bằng Tây Xi-bia.", "c) Trung Xi-bia.", "d) Dãy U-ran."],
-    correct: "a"
+    question: "Câu 22: Sự phân bố dân cư không đều theo lãnh thổ của Liên bang Nga đã gây khó khăn cho việc",
+    options: ["A. sử dụng hợp lí lao động và tài nguyên thiên nhiên.", "B. sử dụng hợp lí lao động và bảo vệ các tài nguyên.", "C. bảo vệ tài nguyên thiên nhiên và phát triển đời sống.", "D. phát triển đời sống và bảo vệ môi trường tự nhiên."],
+    correct: "A"
   },
   {
-    question: "Câu 23: Phát biểu nào sau đây không đúng với cơ sở hạ tầng giao thông vận tải của Liên bang Nga?",
-    options: ["a) Có đủ các loại hình giao thông vận tải.", "b) Có hệ thống đường sắt xuyên Xi-bia.", "c) Giao thông đường biển còn hạn chế.", "d) Nhiều hệ thống đường được nâng cấp."],
-    correct: "c"
+    question: "Câu 23: Phát biểu nào sau đây không đúng với tự nhiên phần phía Tây của Liên bang Nga?",
+    options: ["A. Đại bộ phận là đồng bằng và vũng trũng.", "B. Phía bắc Tây Xi-bia chủ yếu là đầm lầy.", "C. Không thuận lợi cho phát triển nông nghiệp.", "D. Là nơi tập trung cây lương thực, thực phẩm."],
+    correct: "C"
   },
   {
-    question: "Câu 24: Các trung tâm dịch vụ lớn nhất của Liên bang Nga là?",
-    options: ["a) Mát-xcơ-va và Vôn-ga-grát.", "b) Xanh Pê-téc-bua và Vôn-ga-grát.", "c) Vôn-ga-grát và Nô-vô-xi-biếc.", "d) Mát-xcơ-va và Xanh Pê-téc-bua."],
-    correct: "c"
+    question: "Câu 24: Phát biểu nào sau đây không đúng với những khó khăn chủ yếu về tự nhiên của Liên bang Nga đối với phát triển kinh tế - xã hội?",
+    options: ["A. Địa hình núi và cao nguyên chiếm diện tích lớn.", "B. Nhiều vùng rộng, có khí hậu băng giá hoặc khô hạn.", "C. Phần lớn lãnh thổ nằm ở vành đai khí hậu ôn đới.", "D. Tài nguyên chủ yếu ở vùng núi hoặc vùng lạnh giá."],
+    correct: "C"
   },
   {
-    question: "Câu 25: Đặc điểm nào sau đây không thể hiện rõ Liên bang Nga là một đất nước rộng lớn?",
-    options: ["a) Diện tích lớn nhất thế giới, nằm trên hai châu lục.", "b) Đất nước trải dài từ đông sang tây, trên 11 múi giờ.", "c) Đường bờ biển dài, giáp nhiều đại dương và biển.", "d) Có các đới khí hậu, nhiều kiểu khí hậu khác nhau."],
-    correct: "c"
+    question: "Câu 25: Phát biểu nào sau đây không đúng về tự nhiên của Liên bang Nga?",
+    options: ["A. Trữ lượng khoáng sản đứng vào hàng đầu thế giới.", "B. Có các con sông lớn và hàng nghìn con sông nhỏ.", "C. Diện tích rừng không lớn, rừng tai-ga là nhiều nhất.", "D. Cao nguyên, đầm lầy chiếm diện tích lớn, nhiều hồ."],
+    correct: "C"
   },
   {
-    question: "Câu 26: Đặc điểm tự nhiên của phần phía Đông Liên bang Nga là?",
-    options: ["a) Phần lớn núi và cao nguyên.", "b) Nhiều đồng bằng và vùng trũng.", "c) Có dãy U-ran giàu khoáng sản.", "d) Có nhiều đồi thấp và đầm lầy."],
-    correct: "d"
+    question: "Câu 26: Đặc điểm nào sau đây không đúng với phần phía Đông của Liên bang Nga?",
+    options: ["A. Phần lớn là núi và cao nguyên.", "B. Có nguồn khoáng sản và lâm sản lớn.", "C. Có nguồn trữ năng thủy điện lớn.", "D. Có đồng bằng Đông Âu tương đối cao."],
+    correct: "D"
   },
   {
-    question: "Câu 27: Biển Ban-tích, Biển Đen và biển Ca-xpi tiếp giáp với phía nào của Liên bang Nga?",
-    options: ["a) Đông và đông nam.", "b) Bắc và đông bắc.", "c) Tây và tây nam.", "d) Nam và đông nam."],
-    correct: "a"
+    question: "Câu 27: Vùng U-ran của Liên bang Nga thuận lợi để phát triển những ngành chủ yếu nào sau đây?",
+    options: ["A. Khai thác khoáng sản.", "B. Chế biến thực phẩm.", "C. Đóng tàu.", "D. Chế tạo máy."],
+    correct: "A"
   },
   {
-    question: "Câu 28: Tài nguyên khoáng sản của Liên bang Nga thuận lợi để phát triển những ngành công nghiệp nào sau đây?",
-    options: ["a) Năng lượng, luyện kim, hóa chất.", "b) Năng lượng, luyện kim, cơ khí.", "c) Năng lượng, luyện kim, xây dựng.", "d) Năng lượng, luyện kim, dệt may."],
-    correct: "a"
+    question: "Câu 28: Đặc điểm tự nhiên phần phía Tây của Liên bang Nga là",
+    options: ["A. Đại bộ phận là đồng bằng và vùng trũng.", "B. Phần lớn là vùng núi và các cao nguyên.", "C. Có nguồn khoáng sản và lâm sản khá lớn.", "D. Có nguồn trữ năng thủy điện lớn ở sông."],
+    correct: "A"
   },
   {
-    question: "Câu 29: Nơi có nhiều thuận lợi cho trồng cây lương thực ở Liên bang Nga là?",
-    options: ["a) Đồng bằng Đông Âu.", "b) Dãy U-ran.", "c) Đông Xi-bia.", "d) Trung Xi-bia."],
-    correct: "c"
+    question: "Câu 29: Dãy U-ran được xem là ranh giới tự nhiên của",
+    options: ["A. Đồng bằng Đông Âu và cao nguyên Trung Xi-bia.", "B. Phần lãnh thổ phía Đông và phần lãnh thổ phía Tây.", "C. Hai châu lục Á-Âu trên lãnh thổ Liên bang Nga.", "D. Đồng bằng Tây Xi-bia và cao nguyên Trung Xi-bia."],
+    correct: "C"
   },
   {
-    question: "Câu 30: Dầu mỏ của Liên bang Nga tập trung nhiều nhất ở?",
-    options: ["a) Đồng bằng Đông Âu.", "b) Đồng bằng Tây Xi-bia.", "c) Cao nguyên Trung Xi-bia.", "d) Ven Bắc Băng Dương."],
-    correct: "d"
+    question: "Câu 30: Phát biểu nào sau đây không đúng với kinh tế của Liên bang Nga?",
+    options: ["A. Công nghiệp là ngành quan trọng trong nền kinh tế.", "B. Khai thác dầu khí là ngành mũi nhọn của nền kinh tế.", "C. Các ngành dịch vụ của đất nước đang phát triển mạnh.", "D. Quỹ đất nông nghiệp lớn và chỉ phát triển trồng trọt."],
+    correct: "D"
   },
   {
-    question: "Câu 31: Dãy núi U-ran là nơi tập trung nhiều những loại khoáng sản nào sau đây?",
-    options: ["a) Dầu mỏ, Man-gan.", "b) Khí tự nhiên, đồng.", "c) Than đá, quặng sắt.", "d) Kim cương, thiếc."],
-    correct: "c"
+    question: "Câu 31: Phát biểu nào sau đây không đúng với công nghiệp Liên bang Nga hiện nay?",
+    options: ["A. Là một ngành xương sống của cả nền kinh tế.", "B. Cơ cấu đa dạng, có cả truyền thống và hiện đại.", "C. Tập trung ưu tiên phát triển ngành truyền thống.", "D. Công nghiệp khai thác dầu khí là ngành mũi nhọn."],
+    correct: "C"
   },
   {
-    question: "Câu 32: Vùng nào sau đây có mật độ dân số cao nhất ở Liên bang Nga?",
-    options: ["a) Đồng bằng Đông Âu.", "b) Đồng bằng Tây Xi-bia.", "c) Cao nguyên Trung Xi-bia.", "d) Đông Xi-bia."],
-    correct: "a"
+    question: "Câu 32: Công nghiệp của Liên bang Nga tập trung nhiều nhất ở vùng nào sau đây?",
+    options: ["A. Đồng bằng Đông Âu.", "B. Đồng bằng Tây Xi-bia.", "C. Khu vực dãy U-ran.", "D. Khu vực Viễn Đông."],
+    correct: "A"
   },
   {
-    question: "Câu 33: Sự phân bố dân cư không đều theo lãnh thổ của Liên bang Nga đã gây khó khăn cho việc?",
-    options: ["a) Sử dụng hợp lý lao động và tài nguyên thiên nhiên.", "b) Sử dụng hợp lý lao động và bảo vệ các tài nguyên.", "c) Bảo vệ tài nguyên thiên nhiên và phát triển đời sống.", "d) Phát triển đời sống và bảo vệ môi trường tự nhiên."],
-    correct: "d"
+    question: "Câu 33: Nông nghiệp Liên bang Nga phát triển mạnh từ năm 2000 đến nay không phải là do",
+    options: ["A. Đầu tư nhiều vào khoa học kĩ thuật.", "B. Sử dụng rộng rãi máy móc hiện đại.", "C. Tăng cường hội nhập kinh tế quốc tế.", "D. Tích cực mở rộng diện tích trồng trọt."],
+    correct: "D"
   },
   {
-    question: "Câu 34: Phát biểu nào sau đây không đúng với tự nhiên phần phía Tây của Liên bang Nga?",
-    options: ["a) Đại bộ phận là đồng bằng và vũng trũng.", "b) Phía bắc Tây Xi-bia chủ yếu là đầm lầy.", "c) Không thuận lợi cho phát triển nông nghiệp.", "d) Là nơi tập trung cây lương thực, thực phẩm."],
-    correct: "a"
+    question: "Câu 34: Lúa mì được trồng nhiều ở những vùng nào sau đây của Liên bang Nga?",
+    options: ["A. Đồng bằng Đông Âu, đồng bằng Tây Xi-bia.", "B. Đồng bằng Tây Xi-bia, cao nguyên Trung Xi-bia.", "C. Cao nguyên Trung Xi-bia, đồng bằng Đông Âu.", "D. Vùng giáp với biển Ca-xpi, đồng bằng Đông Âu."],
+    correct: "A"
   },
   {
-    question: "Câu 35: Phát biểu nào sau đây không đúng với những khó khăn chủ yếu về tự nhiên của Liên bang Nga đối với phát triển kinh tế - xã hội?",
-    options: ["a) Địa hình núi và cao nguyên chiếm diện tích lớn.", "b) Nhiều vùng rộng, có khí hậu băng giá hoặc khô hạn.", "c) Phần lớn lãnh thổ nằm ở vành đai khí hậu ôn đới.", "d) Tài nguyên chủ yếu ở vùng núi hoặc vùng lạnh giá."],
-    correct: "a"
+    question: "Câu 35: Lợn được nuôi nhiều nhất ở nơi nào sau đây của Liên bang Nga?",
+    options: ["A. Đồng bằng Đông Âu.", "B. Đồng bằng Tây Xi-bia.", "C. Trung Xi-bia.", "D. Dãy U-ran."],
+    correct: "A"
   },
   {
-    question: "Câu 36: Phát biểu nào sau đây không đúng về tự nhiên của Liên bang Nga?",
-    options: ["a) Trữ lượng khoáng sản đứng vào hàng đầu thế giới.", "b) Có các con sông lớn và hàng nghìn con sông nhỏ.", "c) Diện tích rừng không lớn, rừng tai-ga là nhiều nhất.", "d) Cao nguyên, đầm lầy chiếm diện tích lớn, nhiều hồ."],
-    correct: "c"
+    question: "Câu 36: Phát biểu nào sau đây không đúng với cơ sở hạ tầng giao thông vận tải của Liên bang Nga?",
+    options: ["A. Có đủ các loại hình giao thông vận tải.", "B. Có hệ thống đường sắt xuyên Xi-bia.", "C. Giao thông đường biển còn hạn chế.", "D. Nhiều hệ thống đường được nâng cấp."],
+    correct: "C"
   },
   {
-    question: "Câu 37: Đặc điểm nào sau đây không đúng với phần phía Đông của Liên bang Nga?",
-    options: ["a) Phần lớn là núi và cao nguyên.", "b) Có nguồn khoáng sản và lâm sản lớn.", "c) Có nguồn trữ năng thủy điện lớn.", "d) Có đồng bằng Đông Âu tương đối cao."],
-    correct: "d"
+    question: "Câu 37: Các trung tâm dịch vụ lớn nhất của Liên bang Nga là",
+    options: ["A. Mát-xcơ-va và Vôn-ga-grát.", "B. Xanh Pê-téc-bua và Vôn-ga-grát.", "C. Vôn-ga-grát và Nô-vô-xi-biếc.", "D. Mát-xcơ-va và Xanh Pê-téc-bua."],
+    correct: "D"
   }
 ];
 
